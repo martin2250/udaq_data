@@ -1,0 +1,3 @@
+[submodule "udaq_plot"]
+	path = udaq_plot
+	url = https://github.com/martin2250/udaq_plot.git
